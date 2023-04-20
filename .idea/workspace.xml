@@ -5,14 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65117122-0021-47a7-be55-c00f0add94d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exercicios/ExerciciosBasicosJava/Exercicio10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ExerciciosBasicosJava/Exercicio6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ExerciciosBasicosJava/Exercicio7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ExerciciosBasicosJava/Exercicio8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ExerciciosBasicosJava/Exercicio9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosMedios/Exercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosMedios/Exercicio2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/ExerciciosBasicosJava/Exercicios1.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ExerciciosBasicosJava/Exercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/exercicios/ExerciciosBasicosJava/Exercicios1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/exercicios/ExerciciosBasicosJava/Exercicio1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/exercicios/ExerciciosBasicosJava/Exercicio10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/exercicios/ExerciciosBasicosJava/Exercicio2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/exercicios/ExerciciosBasicosJava/Exercicio3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/exercicios/ExerciciosBasicosJava/Exercicio4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/exercicios/ExerciciosBasicosJava/Exercicio5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/exercicios/ExerciciosBasicosJava/Exercicio6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/exercicios/ExerciciosBasicosJava/Exercicio7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/exercicios/ExerciciosBasicosJava/Exercicio8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/exercicios/ExerciciosBasicosJava/Exercicio9.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
