@@ -5,19 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65117122-0021-47a7-be55-c00f0add94d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ExerciciosMedios/Exercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosMedios/Exercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosMedios/Exercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosMedios/Exercicio4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosMedios/Exercicio5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosMedios/Exercicio6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/exercicios/ExerciciosBasicosJava/Exercicio1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/exercicios/ExerciciosBasicosJava/Exercicio10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/exercicios/ExerciciosBasicosJava/Exercicio2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/exercicios/ExerciciosBasicosJava/Exercicio3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/exercicios/ExerciciosBasicosJava/Exercicio4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/exercicios/ExerciciosBasicosJava/Exercicio5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/exercicios/ExerciciosBasicosJava/Exercicio6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/exercicios/ExerciciosBasicosJava/Exercicio7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/exercicios/ExerciciosBasicosJava/Exercicio8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/exercicios/ExerciciosBasicosJava/Exercicio9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios-java/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,18 +35,80 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Brenner\Desktop\Programação\exercicios-java\.idea" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.Exercicio6">
+    <configuration name="Exercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosMedios.Exercicio3" />
+      <module name="exercicios-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExerciciosMedios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosMedios.Exercicio4" />
+      <module name="exercicios-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExerciciosMedios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosMedios.Exercicio5" />
+      <module name="exercicios-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExerciciosMedios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosMedios.Exercicio6" />
+      <module name="exercicios-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExerciciosMedios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exercicio6" />
+        <item itemvalue="Application.Exercicio5" />
+        <item itemvalue="Application.Exercicio4" />
+        <item itemvalue="Application.Exercicio3" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
