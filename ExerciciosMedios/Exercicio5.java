@@ -20,5 +20,6 @@ public class Exercicio5 {
         } else {
             System.out.println("O seu imc é: " + imc + ", você está acima do peso");
         }
+        scan.close();
     }
 }

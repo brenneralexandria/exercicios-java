@@ -18,5 +18,6 @@ public class Exercicio4 {
         }else {
             System.out.println("Idoso");
         }
+        scan.close();
     }
 }

@@ -16,6 +16,6 @@ public class Exercicio6 {
         } else {
         System.out.println("Hoje a temperatura está em " + temperatura + "°C, e está quente");
         }
-
+        scan.close();
     }
 }

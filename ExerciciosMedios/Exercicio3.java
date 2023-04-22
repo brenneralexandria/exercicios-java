@@ -14,5 +14,6 @@ public class Exercicio3 {
         }else {
             System.out.println("Vai repetir, deu ruim parça!!!");
         }
+        scan.close();
     }
 }
