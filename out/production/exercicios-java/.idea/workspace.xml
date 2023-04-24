@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65117122-0021-47a7-be55-c00f0add94d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ExerciciosMedios/Exercicio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosMedios/Exercicio4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosMedios/Exercicio5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosMedios/Exercicio6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios-java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciciosBasicos/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExerciciosBasicos/Exercicio16.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,12 +21,17 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_ON_COMMIT_AND_PUSH" value="false" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2OhSrpu2qgbBwNPxeSRsyc2lFSG" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Checkout" />
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,17 +41,21 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
   }
 }</component>
+  <component name="ReadonlyStatusHandler">
+    <option name="SHOW_DIALOG" value="false" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Brenner\Desktop\Programação\exercicios-java\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercicio11">
-    <configuration name="Exercicio11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciciosBasicos.Exercicio11" />
+  <component name="RunManager" selected="Application.Exercicio16">
+    <configuration name="Exercicio12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosBasicos.Exercicio12" />
       <module name="exercicios-java" />
       <extension name="coverage">
         <pattern>
@@ -62,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciciosMedios.Exercicio3" />
+    <configuration name="Exercicio13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosBasicos.Exercicio13" />
       <module name="exercicios-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExerciciosMedios.*" />
+          <option name="PATTERN" value="ExerciciosBasicos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciciosMedios.Exercicio4" />
+    <configuration name="Exercicio14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosBasicos.Exercicio14" />
       <module name="exercicios-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExerciciosMedios.*" />
+          <option name="PATTERN" value="ExerciciosBasicos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciciosMedios.Exercicio5" />
+    <configuration name="Exercicio15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosBasicos.Exercicio15" />
       <module name="exercicios-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExerciciosMedios.*" />
+          <option name="PATTERN" value="ExerciciosBasicos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciciosMedios.Exercicio6" />
+    <configuration name="Exercicio16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosBasicos.Exercicio16" />
       <module name="exercicios-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExerciciosMedios.*" />
+          <option name="PATTERN" value="ExerciciosBasicos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercicio11" />
-        <item itemvalue="Application.Exercicio6" />
-        <item itemvalue="Application.Exercicio5" />
-        <item itemvalue="Application.Exercicio4" />
-        <item itemvalue="Application.Exercicio3" />
+        <item itemvalue="Application.Exercicio16" />
+        <item itemvalue="Application.Exercicio15" />
+        <item itemvalue="Application.Exercicio14" />
+        <item itemvalue="Application.Exercicio13" />
+        <item itemvalue="Application.Exercicio12" />
       </list>
     </recent_temporary>
   </component>
@@ -134,5 +139,25 @@
       <updated>1682011524948</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="exercicios-java" type="b2602c69:ProjectViewProjectNode" />
+        <item name="dir{file://C:/Users/brenn/Desktop/Programação/exercicios-java}" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
   </component>
 </project>

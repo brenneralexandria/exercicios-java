@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65117122-0021-47a7-be55-c00f0add94d5" name="Changes" comment="" />
+    <list default="true" id="65117122-0021-47a7-be55-c00f0add94d5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ExerciciosBasicos/Exercicio17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosBasicos/Exercicio18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosBasicos/Exercicio19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosBasicos/Exercicio20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciciosBasicos/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExerciciosBasicos/Exercicio16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios-java/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios-java/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,33 +27,41 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_ON_COMMIT_AND_PUSH" value="false" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2OhSrpu2qgbBwNPxeSRsyc2lFSG" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Checkout" />
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "advanced.settings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
   }
-}]]></component>
+}</component>
+  <component name="ReadonlyStatusHandler">
+    <option name="SHOW_DIALOG" value="false" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Brenner\Desktop\Programação\exercicios-java\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercicio15">
-    <configuration name="Exercicio11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciciosBasicos.Exercicio11" />
+  <component name="RunManager" selected="Application.Exercicio20">
+    <configuration name="Exercicio16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosBasicos.Exercicio16" />
       <module name="exercicios-java" />
       <extension name="coverage">
         <pattern>
@@ -56,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciciosBasicos.Exercicio12" />
+    <configuration name="Exercicio17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosBasicos.Exercicio17" />
       <module name="exercicios-java" />
       <extension name="coverage">
         <pattern>
@@ -69,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciciosBasicos.Exercicio13" />
+    <configuration name="Exercicio18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosBasicos.Exercicio18" />
       <module name="exercicios-java" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciciosBasicos.Exercicio14" />
+    <configuration name="Exercicio19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosBasicos.Exercicio19" />
       <module name="exercicios-java" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciciosBasicos.Exercicio15" />
+    <configuration name="Exercicio20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosBasicos.Exercicio20" />
       <module name="exercicios-java" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercicio15" />
-        <item itemvalue="Application.Exercicio14" />
-        <item itemvalue="Application.Exercicio13" />
-        <item itemvalue="Application.Exercicio12" />
-        <item itemvalue="Application.Exercicio11" />
+        <item itemvalue="Application.Exercicio20" />
+        <item itemvalue="Application.Exercicio19" />
+        <item itemvalue="Application.Exercicio18" />
+        <item itemvalue="Application.Exercicio17" />
+        <item itemvalue="Application.Exercicio16" />
       </list>
     </recent_temporary>
   </component>
@@ -128,6 +145,28 @@
       <updated>1682011524948</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ExerciciosBasicos/Exercicio20.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
