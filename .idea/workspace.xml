@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65117122-0021-47a7-be55-c00f0add94d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ExerciciosPOO/Exercicio16/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosPOO/Exercicio16/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosPOO/Exercicio17/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosPOO/Exercicio17/Retangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosPOO/Exercicio18/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosPOO/Exercicio18/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosPOO/Exercicio19/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosPOO/Exercicio19/Paciente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosPOO/Exercicio20/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosPOO/Exercicio20/Triangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosAbastracao/Exercicio1/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosAbastracao/Exercicio1/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosAbastracao/Exercicio1/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosAbastracao/Exercicio1/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios-java/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,13 +56,13 @@
       <recent name="C:\Users\Brenner\Desktop\Programação\exercicios-java\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExerciciosPOO.Exercicio20.Main">
-    <configuration name="ExerciciosPOO.Exercicio16.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciciosPOO.Exercicio16.Main" />
+  <component name="RunManager" selected="Application.ExerciciosAbastracao.Exercicio1.Main">
+    <configuration name="ExerciciosAbastracao.Exercicio1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosAbastracao.Exercicio1.Main" />
       <module name="exercicios-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExerciciosPOO.Exercicio16.*" />
+          <option name="PATTERN" value="ExerciciosAbastracao.Exercicio1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExerciciosAbastracao.Exercicio1.Main" />
         <item itemvalue="Application.ExerciciosPOO.Exercicio20.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ExerciciosPOO.Exercicio18.Main" />
         <item itemvalue="Application.ExerciciosPOO.Exercicio17.Main" />
-        <item itemvalue="Application.ExerciciosPOO.Exercicio16.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -160,17 +153,6 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/ExerciciosPOO/Exercicio1/Exercicio1.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>

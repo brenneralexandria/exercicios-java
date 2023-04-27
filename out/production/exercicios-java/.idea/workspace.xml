@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65117122-0021-47a7-be55-c00f0add94d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ExerciciosPOO/Exercicio16/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosPOO/Exercicio16/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosAbastracao/Exercicio1/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosAbastracao/Exercicio1/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosAbastracao/Exercicio1/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosAbastracao/Exercicio1/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,13 +56,13 @@
       <recent name="C:\Users\Brenner\Desktop\Programação\exercicios-java\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExerciciosPOO.Exercicio16.Main">
-    <configuration name="Exercicio10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciciosPOO.Exercicio10.Exercicio10" />
+  <component name="RunManager" selected="Application.ExerciciosAbastracao.Exercicio1.Main">
+    <configuration name="ExerciciosAbastracao.Exercicio1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosAbastracao.Exercicio1.Main" />
       <module name="exercicios-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExerciciosPOO.Exercicio10.*" />
+          <option name="PATTERN" value="ExerciciosAbastracao.Exercicio1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExerciciosPOO.Exercicio13.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciciosPOO.Exercicio13.Main" />
+    <configuration name="ExerciciosPOO.Exercicio17.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosPOO.Exercicio17.Main" />
       <module name="exercicios-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExerciciosPOO.Exercicio13.*" />
+          <option name="PATTERN" value="ExerciciosPOO.Exercicio17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExerciciosPOO.Exercicio14.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciciosPOO.Exercicio14.Main" />
+    <configuration name="ExerciciosPOO.Exercicio18.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosPOO.Exercicio18.Main" />
       <module name="exercicios-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExerciciosPOO.Exercicio14.*" />
+          <option name="PATTERN" value="ExerciciosPOO.Exercicio18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExerciciosPOO.Exercicio16.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciciosPOO.Exercicio16.Main" />
+    <configuration name="ExerciciosPOO.Exercicio20.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosPOO.Exercicio20.Main" />
       <module name="exercicios-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExerciciosPOO.Exercicio16.*" />
+          <option name="PATTERN" value="ExerciciosPOO.Exercicio20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +110,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciciosPOO.exercicio11.Main" />
+      <option name="MAIN_CLASS_NAME" value="ExerciciosPOO.Exercicio19.Main" />
       <module name="exercicios-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExerciciosPOO.exercicio11.*" />
+          <option name="PATTERN" value="ExerciciosPOO.Exercicio19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExerciciosPOO.Exercicio16.Main" />
-        <item itemvalue="Application.ExerciciosPOO.Exercicio14.Main" />
-        <item itemvalue="Application.ExerciciosPOO.Exercicio13.Main" />
+        <item itemvalue="Application.ExerciciosAbastracao.Exercicio1.Main" />
+        <item itemvalue="Application.ExerciciosPOO.Exercicio20.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Exercicio10" />
+        <item itemvalue="Application.ExerciciosPOO.Exercicio18.Main" />
+        <item itemvalue="Application.ExerciciosPOO.Exercicio17.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -151,17 +153,6 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/ExerciciosPOO/Exercicio1/Exercicio1.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
