@@ -1,4 +1,4 @@
-package ExerciciosAbastracao.Exercicio1;
+package ExerciciosPOO.ExerciciosAbastracao.Exercicio1;
 
     public class Dog extends Animal {
 
