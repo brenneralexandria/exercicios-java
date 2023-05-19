@@ -1,6 +1,6 @@
 package ExerciciosMedios;
 
-public class Exercicio9 {
+public class Exercicio8 {
     public static void main(String[] args) {
         BinaryTree tree = new BinaryTree();
 

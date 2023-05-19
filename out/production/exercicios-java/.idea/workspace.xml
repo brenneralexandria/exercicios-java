@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65117122-0021-47a7-be55-c00f0add94d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ExerciciosPOO/ExercicioPOO/Exercicio1/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosPOO/ExercicioPOO/Exercicio1/Cachorro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosPOO/ExercicioPOO/Exercicio1/Gato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosPOO/ExercicioPOO/Exercicio1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosMedios/Exercicio9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciciosMedios/Exercicio7.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExerciciosMedios/Exercicio7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciciosMedios/Exercicio8.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExerciciosMedios/Exercicio8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios-java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/ExerciciosPOO/ExercicioPOO/Exercicio5/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios-java/ExerciciosPOO/ExercicioPOO/Exercicio5/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -57,13 +59,13 @@
       <recent name="C:\Users\Brenner\Desktop\Programação\exercicios-java\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="ExerciciosPOO.ExerciciosAbastracao.Exercicio1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciciosPOO.ExerciciosAbastracao.Exercicio1.Main" />
+  <component name="RunManager" selected="Application.Exercicio9">
+    <configuration name="Exercicio7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosMedios.Exercicio7" />
       <module name="exercicios-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExerciciosPOO.ExerciciosAbastracao.Exercicio1.*" />
+          <option name="PATTERN" value="ExerciciosMedios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExerciciosPOO.ExerciciosAbastracao.Exercicio2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciciosPOO.ExerciciosAbastracao.Exercicio2.Main" />
+    <configuration name="Exercicio9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosMedios.Exercicio9" />
       <module name="exercicios-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExerciciosPOO.ExerciciosAbastracao.Exercicio2.*" />
+          <option name="PATTERN" value="ExerciciosMedios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExerciciosPOO.ExerciciosAbastracao.Exercicio3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciciosPOO.ExerciciosAbastracao.Exercicio3.Main" />
+    <configuration name="ExerciciosPOO.ExercicioPOO.Exercicio3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosPOO.ExercicioPOO.Exercicio3.Main" />
       <module name="exercicios-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExerciciosPOO.ExerciciosAbastracao.Exercicio3.*" />
+          <option name="PATTERN" value="ExerciciosPOO.ExercicioPOO.Exercicio3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExerciciosPOO.ExerciciosAbastracao.Exercicio4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciciosPOO.ExerciciosAbastracao.Exercicio4.Main" />
+    <configuration name="ExerciciosPOO.ExercicioPOO.Exercicio4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosPOO.ExercicioPOO.Exercicio4.Main" />
       <module name="exercicios-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExerciciosPOO.ExerciciosAbastracao.Exercicio4.*" />
+          <option name="PATTERN" value="ExerciciosPOO.ExercicioPOO.Exercicio4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciciosPOO.ExercicioPOO.Exercicio1.Main" />
+    <configuration name="ExerciciosPOO.ExercicioPOO.Exercicio5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosPOO.ExercicioPOO.Exercicio5.Main" />
       <module name="exercicios-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExerciciosPOO.ExercicioPOO.Exercicio1.*" />
+          <option name="PATTERN" value="ExerciciosPOO.ExercicioPOO.Exercicio5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ExerciciosPOO.ExerciciosAbastracao.Exercicio4.Main" />
-        <item itemvalue="Application.ExerciciosPOO.ExerciciosAbastracao.Exercicio3.Main" />
-        <item itemvalue="Application.ExerciciosPOO.ExerciciosAbastracao.Exercicio2.Main" />
-        <item itemvalue="Application.ExerciciosPOO.ExerciciosAbastracao.Exercicio1.Main" />
+        <item itemvalue="Application.Exercicio9" />
+        <item itemvalue="Application.Exercicio7" />
+        <item itemvalue="Application.ExerciciosPOO.ExercicioPOO.Exercicio5.Main" />
+        <item itemvalue="Application.ExerciciosPOO.ExercicioPOO.Exercicio4.Main" />
+        <item itemvalue="Application.ExerciciosPOO.ExercicioPOO.Exercicio3.Main" />
       </list>
     </recent_temporary>
   </component>

@@ -8,7 +8,7 @@ public class Exercicio2 {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
-        System.out.print("Digite uma palavra: ");
+        System.out.print("Digite uma letra: ");
         String str = scan.nextLine();
 
         Map<Character, Integer> contagem = new HashMap<>();
